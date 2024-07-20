@@ -8,4 +8,4 @@
 1. [功能规划](https://github.com/calmstreet/NextTrader/issues/2)
 
 ## cms端
-1. [功能规划]()
+1. [功能规划](https://github.com/calmstreet/NextTrader/issues/4)
