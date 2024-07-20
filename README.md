@@ -5,4 +5,4 @@
 2. [功能规划](https://github.com/calmstreet/NextTrader/issues/3)
 
 ## server端
-1. [功能规划]()
+1. [功能规划](https://github.com/calmstreet/NextTrader/issues/2)
