@@ -1,7 +1,8 @@
 # NextTrader
-1. 为专业交易员打造的平台
+1. 专业平台
 2. 用户体验流畅
 3. 实盘撮合高于500万tps
+4. 提供有价值资讯
 
 ## win端
 1. [界面展示](https://github.com/calmstreet/NextTrader/issues/1#issuecomment-2236873200)
